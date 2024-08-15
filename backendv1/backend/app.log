@@ -1,0 +1,229 @@
+2024-07-10 15:06:51,006 WARNING werkzeug  * Debugger is active!
+2024-07-10 15:06:51,029 INFO werkzeug  * Debugger PIN: 483-351-095
+2024-07-10 15:07:15,365 INFO werkzeug  * Detected change in '/Users/jacksonbrouwer/programming_files/academic/nlp/project/backend/app.py', reloading
+2024-07-10 15:07:20,920 WARNING werkzeug  * Debugger is active!
+2024-07-10 15:07:20,940 INFO werkzeug  * Debugger PIN: 483-351-095
+2024-07-10 15:07:28,251 INFO werkzeug  * Detected change in '/Users/jacksonbrouwer/programming_files/academic/nlp/project/backend/app.py', reloading
+2024-07-10 15:07:35,119 WARNING werkzeug  * Debugger is active!
+2024-07-10 15:07:35,143 INFO werkzeug  * Debugger PIN: 483-351-095
+2024-07-10 15:07:35,696 ERROR __main__ No Audio File In Request
+2024-07-10 15:07:35,711 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 15:07:35] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2024-07-10 15:07:53,452 ERROR __main__ No Audio File In Request
+2024-07-10 15:07:53,453 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 15:07:53] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2024-07-10 15:08:06,841 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-10 15:08:06,841 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-07-10 15:08:06,842 INFO werkzeug  * Restarting with stat
+2024-07-10 15:08:12,637 WARNING werkzeug  * Debugger is active!
+2024-07-10 15:08:12,659 INFO werkzeug  * Debugger PIN: 483-351-095
+2024-07-10 15:08:45,095 ERROR __main__ No Audio File In Request
+2024-07-10 15:08:45,095 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 15:08:45] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2024-07-10 15:09:56,291 INFO werkzeug  * Detected change in '/Users/jacksonbrouwer/programming_files/academic/nlp/project/backend/app.py', reloading
+2024-07-10 15:09:56,931 INFO werkzeug  * Restarting with stat
+2024-07-10 15:10:03,763 WARNING werkzeug  * Debugger is active!
+2024-07-10 15:10:03,786 INFO werkzeug  * Debugger PIN: 483-351-095
+2024-07-10 15:10:04,934 ERROR __main__ No Audio File In Request
+2024-07-10 15:10:04,935 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 15:10:04] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2024-07-10 15:11:55,302 INFO werkzeug  * Detected change in '/Users/jacksonbrouwer/programming_files/academic/nlp/project/backend/app.py', reloading
+2024-07-10 15:11:56,236 INFO werkzeug  * Restarting with stat
+2024-07-10 15:12:02,468 WARNING werkzeug  * Debugger is active!
+2024-07-10 15:12:02,489 INFO werkzeug  * Debugger PIN: 483-351-095
+2024-07-10 15:12:03,048 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 15:12:03] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-07-10 15:12:22,727 INFO werkzeug  * Detected change in '/Users/jacksonbrouwer/programming_files/academic/nlp/project/backend/app.py', reloading
+2024-07-10 15:12:23,412 INFO werkzeug  * Restarting with stat
+2024-07-10 15:12:28,886 WARNING werkzeug  * Debugger is active!
+2024-07-10 15:12:28,910 INFO werkzeug  * Debugger PIN: 483-351-095
+2024-07-10 15:12:29,693 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 15:12:29] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-07-10 15:13:25,459 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 15:13:25] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-07-10 15:13:56,673 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-10 15:13:56,674 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-07-10 15:13:56,675 INFO werkzeug  * Restarting with stat
+2024-07-10 15:14:01,709 WARNING werkzeug  * Debugger is active!
+2024-07-10 15:14:01,732 INFO werkzeug  * Debugger PIN: 483-351-095
+2024-07-10 15:22:58,396 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-10 15:22:58,396 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-07-10 15:22:58,399 INFO werkzeug  * Restarting with stat
+2024-07-10 15:23:03,430 WARNING werkzeug  * Debugger is active!
+2024-07-10 15:23:03,459 INFO werkzeug  * Debugger PIN: 483-351-095
+2024-07-10 15:23:13,696 ERROR __main__ Retreived the file
+2024-07-10 15:23:13,696 ERROR __main__ Saved the Audio File
+2024-07-10 15:24:04,571 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 15:24:04] "POST /upload HTTP/1.1" 200 -
+2024-07-10 15:24:51,632 ERROR __main__ Retreived the file
+2024-07-10 15:24:51,633 ERROR __main__ Saved the Audio File
+2024-07-10 15:25:39,049 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 15:25:39] "POST /upload HTTP/1.1" 200 -
+2024-07-10 15:35:02,498 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-10 15:35:02,498 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-07-10 15:35:02,499 INFO werkzeug  * Restarting with stat
+2024-07-10 15:35:39,181 WARNING werkzeug  * Debugger is active!
+2024-07-10 15:35:39,218 INFO werkzeug  * Debugger PIN: 483-351-095
+2024-07-10 15:35:47,623 ERROR __main__ Retreived the file
+2024-07-10 15:35:47,624 ERROR __main__ Saved the Audio File
+2024-07-10 15:36:20,047 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 15:36:20] "POST /upload HTTP/1.1" 200 -
+2024-07-10 15:38:27,629 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-10 15:38:27,629 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-07-10 15:38:27,630 INFO werkzeug  * Restarting with stat
+2024-07-10 15:38:58,928 WARNING werkzeug  * Debugger is active!
+2024-07-10 15:38:58,958 INFO werkzeug  * Debugger PIN: 483-351-095
+2024-07-10 15:39:18,498 ERROR __main__ Retreived the file
+2024-07-10 15:39:18,501 ERROR __main__ Saved the Audio File
+2024-07-10 15:39:44,377 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 15:39:44] "POST /upload HTTP/1.1" 200 -
+2024-07-10 15:40:11,390 INFO werkzeug  * Detected change in '/Users/jacksonbrouwer/programming_files/academic/nlp/project/backend/transcribe/speech_to_text.py', reloading
+2024-07-10 15:40:13,519 INFO werkzeug  * Restarting with stat
+2024-07-10 15:40:35,868 WARNING werkzeug  * Debugger is active!
+2024-07-10 15:40:35,894 INFO werkzeug  * Debugger PIN: 483-351-095
+2024-07-10 15:41:07,698 ERROR __main__ Retreived the file
+2024-07-10 15:41:07,699 ERROR __main__ Saved the Audio File
+2024-07-10 15:41:36,380 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 15:41:36] "POST /upload HTTP/1.1" 200 -
+2024-07-10 15:45:36,489 INFO werkzeug  * Detected change in '/Users/jacksonbrouwer/programming_files/academic/nlp/project/backend/transcribe/speech_to_text.py', reloading
+2024-07-10 15:46:19,762 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-10 15:46:19,763 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-07-10 15:46:19,764 INFO werkzeug  * Restarting with stat
+2024-07-10 15:46:43,834 WARNING werkzeug  * Debugger is active!
+2024-07-10 15:46:43,868 INFO werkzeug  * Debugger PIN: 483-351-095
+2024-07-10 15:48:23,761 ERROR __main__ Retreived the file
+2024-07-10 15:48:23,786 ERROR __main__ Saved the Audio File
+2024-07-10 15:48:53,841 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 15:48:53] "POST /upload HTTP/1.1" 200 -
+2024-07-10 15:49:42,785 INFO werkzeug  * Detected change in '/Users/jacksonbrouwer/programming_files/academic/nlp/project/backend/app.py', reloading
+2024-07-10 15:49:46,011 INFO werkzeug  * Restarting with stat
+2024-07-10 15:49:59,280 WARNING werkzeug  * Debugger is active!
+2024-07-10 15:49:59,302 INFO werkzeug  * Debugger PIN: 483-351-095
+2024-07-10 15:50:27,873 ERROR __main__ Retreived the file
+2024-07-10 15:50:27,874 ERROR __main__ Saved the Audio File
+2024-07-10 15:50:30,277 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 15:50:30] "POST /upload HTTP/1.1" 200 -
+2024-07-10 15:50:59,877 ERROR __main__ Retreived the file
+2024-07-10 15:50:59,878 ERROR __main__ Saved the Audio File
+2024-07-10 15:51:00,828 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 15:51:00] "POST /upload HTTP/1.1" 200 -
+2024-07-10 15:51:07,709 ERROR __main__ Retreived the file
+2024-07-10 15:51:07,710 ERROR __main__ Saved the Audio File
+2024-07-10 15:51:08,888 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 15:51:08] "POST /upload HTTP/1.1" 200 -
+2024-07-10 15:51:18,527 ERROR __main__ Retreived the file
+2024-07-10 15:51:18,528 ERROR __main__ Saved the Audio File
+2024-07-10 15:51:19,692 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 15:51:19] "POST /upload HTTP/1.1" 200 -
+2024-07-10 15:51:27,005 ERROR __main__ Retreived the file
+2024-07-10 15:51:27,006 ERROR __main__ Saved the Audio File
+2024-07-10 15:51:27,771 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 15:51:27] "POST /upload HTTP/1.1" 200 -
+2024-07-10 16:57:12,871 ERROR __main__ Retreived the file
+2024-07-10 16:57:12,879 ERROR __main__ Saved the Audio File
+2024-07-10 16:57:16,759 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 16:57:16] "POST /upload HTTP/1.1" 200 -
+2024-07-10 16:59:30,339 ERROR __main__ Retreived the file
+2024-07-10 16:59:30,340 ERROR __main__ Saved the Audio File
+2024-07-10 16:59:31,413 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 16:59:31] "POST /upload HTTP/1.1" 200 -
+2024-07-10 16:59:39,928 ERROR __main__ Retreived the file
+2024-07-10 16:59:39,929 ERROR __main__ Saved the Audio File
+2024-07-10 16:59:40,538 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 16:59:40] "POST /upload HTTP/1.1" 200 -
+2024-07-10 16:59:48,668 ERROR __main__ Retreived the file
+2024-07-10 16:59:48,669 ERROR __main__ Saved the Audio File
+2024-07-10 16:59:49,309 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 16:59:49] "POST /upload HTTP/1.1" 200 -
+2024-07-10 17:01:34,126 ERROR __main__ Retreived the file
+2024-07-10 17:01:34,127 ERROR __main__ Saved the Audio File
+2024-07-10 17:01:34,903 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:01:34] "POST /upload HTTP/1.1" 200 -
+2024-07-10 17:01:41,206 ERROR __main__ Retreived the file
+2024-07-10 17:01:41,206 ERROR __main__ Saved the Audio File
+2024-07-10 17:01:41,822 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:01:41] "POST /upload HTTP/1.1" 200 -
+2024-07-10 17:02:37,911 ERROR __main__ Retreived the file
+2024-07-10 17:02:37,915 ERROR __main__ Saved the Audio File
+2024-07-10 17:02:38,565 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:02:38] "POST /upload HTTP/1.1" 200 -
+2024-07-10 17:03:08,839 ERROR __main__ Retreived the file
+2024-07-10 17:03:08,840 ERROR __main__ Saved the Audio File
+2024-07-10 17:03:09,701 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:03:09] "POST /upload HTTP/1.1" 200 -
+2024-07-10 17:03:42,886 ERROR __main__ Retreived the file
+2024-07-10 17:03:42,887 ERROR __main__ Saved the Audio File
+2024-07-10 17:03:43,663 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:03:43] "POST /upload HTTP/1.1" 200 -
+2024-07-10 17:04:01,963 ERROR __main__ Retreived the file
+2024-07-10 17:04:01,964 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:02,740 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:02] "POST /upload HTTP/1.1" 200 -
+2024-07-10 17:04:14,771 ERROR __main__ Retreived the file
+2024-07-10 17:04:14,772 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:15,607 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:15] "POST /upload HTTP/1.1" 200 -
+2024-07-10 17:04:15,640 ERROR __main__ Retreived the file
+2024-07-10 17:04:15,641 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:15,883 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:15] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-07-10 17:04:18,239 ERROR __main__ Retreived the file
+2024-07-10 17:04:18,240 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:19,037 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:19] "POST /upload HTTP/1.1" 200 -
+2024-07-10 17:04:22,493 ERROR __main__ Retreived the file
+2024-07-10 17:04:22,493 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:23,199 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:23] "POST /upload HTTP/1.1" 200 -
+2024-07-10 17:04:30,137 ERROR __main__ Retreived the file
+2024-07-10 17:04:30,138 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:30,838 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:30] "POST /upload HTTP/1.1" 200 -
+2024-07-10 17:04:30,906 ERROR __main__ Retreived the file
+2024-07-10 17:04:30,906 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:31,218 ERROR __main__ Retreived the file
+2024-07-10 17:04:31,219 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:31,517 ERROR __main__ Retreived the file
+2024-07-10 17:04:31,519 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:31,767 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:31] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-07-10 17:04:32,248 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:32] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-07-10 17:04:32,442 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:32] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-07-10 17:04:33,489 ERROR __main__ Retreived the file
+2024-07-10 17:04:33,489 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:34,158 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:34] "POST /upload HTTP/1.1" 200 -
+2024-07-10 17:04:35,312 ERROR __main__ Retreived the file
+2024-07-10 17:04:35,312 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:35,987 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:35] "POST /upload HTTP/1.1" 200 -
+2024-07-10 17:04:41,057 ERROR __main__ Retreived the file
+2024-07-10 17:04:41,058 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:41,837 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:41] "POST /upload HTTP/1.1" 200 -
+2024-07-10 17:04:45,592 ERROR __main__ Retreived the file
+2024-07-10 17:04:45,592 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:45,726 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:45] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-07-10 17:04:46,401 ERROR __main__ Retreived the file
+2024-07-10 17:04:46,402 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:46,900 ERROR __main__ Retreived the file
+2024-07-10 17:04:46,901 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:47,168 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:47] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-07-10 17:04:47,236 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:47] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-07-10 17:04:47,359 ERROR __main__ Retreived the file
+2024-07-10 17:04:47,359 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:47,497 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:47] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-07-10 17:04:47,694 ERROR __main__ Retreived the file
+2024-07-10 17:04:47,695 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:47,828 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:47] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-07-10 17:04:47,844 ERROR __main__ Retreived the file
+2024-07-10 17:04:47,845 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:47,975 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:47] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-07-10 17:04:48,300 ERROR __main__ Retreived the file
+2024-07-10 17:04:48,301 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:48,441 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:48] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-07-10 17:04:48,609 ERROR __main__ Retreived the file
+2024-07-10 17:04:48,609 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:48,757 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:48] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-07-10 17:04:49,207 ERROR __main__ Retreived the file
+2024-07-10 17:04:49,208 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:49,341 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:49] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-07-10 17:04:51,392 ERROR __main__ Retreived the file
+2024-07-10 17:04:51,392 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:52,251 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:52] "POST /upload HTTP/1.1" 200 -
+2024-07-10 17:04:57,330 ERROR __main__ Retreived the file
+2024-07-10 17:04:57,331 ERROR __main__ Saved the Audio File
+2024-07-10 17:04:58,116 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 17:04:58] "POST /upload HTTP/1.1" 200 -
+2024-07-10 18:18:05,246 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-10 18:18:05,246 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-07-10 18:18:05,247 INFO werkzeug  * Restarting with stat
+2024-07-10 18:18:12,844 WARNING werkzeug  * Debugger is active!
+2024-07-10 18:18:12,866 INFO werkzeug  * Debugger PIN: 483-351-095
+2024-07-10 18:18:14,028 ERROR __main__ Retreived the file
+2024-07-10 18:18:14,029 ERROR __main__ Retreived the file
+2024-07-10 18:18:14,032 ERROR __main__ Retreived the file
+2024-07-10 18:18:14,032 ERROR __main__ Saved the Audio File
+2024-07-10 18:18:14,033 ERROR __main__ Saved the Audio File
+2024-07-10 18:18:14,033 ERROR __main__ Saved the Audio File
+2024-07-10 18:18:16,973 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 18:18:16] "POST /upload HTTP/1.1" 200 -
+2024-07-10 18:18:16,993 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 18:18:16] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-07-10 18:18:16,994 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 18:18:16] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2024-07-10 18:20:09,003 ERROR __main__ Retreived the file
+2024-07-10 18:20:09,004 ERROR __main__ Saved the Audio File
+2024-07-10 18:20:10,085 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 18:20:10] "POST /upload HTTP/1.1" 200 -
+2024-07-10 18:21:22,449 ERROR __main__ Retreived the file
+2024-07-10 18:21:22,451 ERROR __main__ Saved the Audio File
+2024-07-10 18:21:27,490 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 18:21:27] "POST /upload HTTP/1.1" 200 -
+2024-07-10 18:22:22,188 ERROR __main__ Retreived the file
+2024-07-10 18:22:22,189 ERROR __main__ Saved the Audio File
+2024-07-10 18:22:23,483 INFO werkzeug 127.0.0.1 - - [10/Jul/2024 18:22:23] "POST /upload HTTP/1.1" 200 -
